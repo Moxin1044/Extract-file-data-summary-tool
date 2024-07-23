@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidationTools", "ValidationTools.csproj", "{FABC7FA1-462E-49F0-A9AA-38FECC47C0F9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "取文件数据摘要工具", "取文件数据摘要工具.csproj", "{FABC7FA1-462E-49F0-A9AA-38FECC47C0F9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
